@@ -1,0 +1,14 @@
+body, html {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: url(assets/footer-bg.png) no-repeat center bottom;
+}
+
+
+#header .nav-link:hover{
+    border-bottom: solid 4px var(--secondary);
+    color: var(--secondary);
+}
+
